@@ -10,8 +10,8 @@ var swiper = new Swiper('.swiper-container', {
     },
 
     navigation: {
-      nextEl: '.swiper-button-next-unique',
-      prevEl: '.swiper-button-prev-unique'
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev'
     },
         mousewheel: true,
         keyboard: true,
