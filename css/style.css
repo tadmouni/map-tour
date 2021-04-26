@@ -81,6 +81,10 @@ body {
     opacity: 1;
 }   
 
+.figure-caption {
+	font-size: 12px;
+}
+
 p {
     text-align: left;
 }
